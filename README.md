@@ -1,4 +1,5 @@
 # Tic-Tac-Toe Poker
+Scroll down for the video demo of the game play.
 
 An Android game I made 10 years ago (2012). It is a really simple game that combines the gameplays of both **Tic-Tac-Toe** and **Poker**.
 
@@ -6,12 +7,13 @@ I have only updated the manifest files to make the game work again, plus changed
 
 I got this idea from my old friend and started to develop the game when I was in college, but was never published at any place until today (Dec, 2024).
 
-I may not add new things to the project anymore, because it uses old technologies that are 10 years already. But I may still update it to make the game at least work.
+I may not add new things to the project anymore, because it uses old technologies that are 10 years already and I don't want to rewrite everything. But I may still update it to make the game at least work.
 
 ## Table of Contents
 
 - [Features](#features)
 - [Installation](#installation)
+- [Video Demo](#video-demo)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -42,6 +44,9 @@ The game supports the following modes:
 Just pull the code from Github and run it in IntelliJ.
 
 If you want to play it on a real phone, build it as an APK file. Remember to allow "Unknow Source"
+
+## Video Demo
+https://github.com/user-attachments/assets/dd2ec13a-a764-49b9-8b26-3f6cd06796bf
 
 ## Contributing
 
