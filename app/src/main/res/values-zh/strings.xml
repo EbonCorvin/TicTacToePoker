@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="description">An interesting poker game combined with Tic-Tac-Toe and 7 hands poker</string>
+	<string name="app_name">心戰撲克</string>
+	<string name="ask_exit">你確定要離開遊戲嗎?</string>
+	<string name="ifo_loading">載入遊戲資源中&#8230;</string>
+	<string name="ask_savegame">你確定要回到選單嗎?/ /如果你目前的遊戲未完結/進度將會被保存下來</string>
+	<string name="ifo_wrongresolution">抱歉, 但本遊戲目前只支援800x480的解像度。請留意經Google Play發佈的更新！</string>
+	<string name="ifo_selectdevice">請從下表選出先前作過配對的藍芽裝置：</string>
+	<string name="ifo_scandevice">或者掃瞄附近尚未配對過的裝置：</string>
+	<string name="inf_scan">掃瞄裝置</string>
+	<string name="ifo_loadingerror">發生一個未知的錯誤，導致遊戲無法被載入！請嘗試重啟本遊戲。</string>
+	<string name="inf_p0">大牌</string>
+	<string name="inf_p1">對</string>
+	<string name="inf_p2">兩對</string>
+	<string name="inf_p3">三條</string>
+	<string name="inf_p4">順</string>
+	<string name="inf_p5">同花</string>
+	<string name="inf_p6">俘虜</string>
+	<string name="inf_p7">四條</string>
+	<string name="inf_p8">同花順</string>
+	<string name="inf_hands">花式</string>
+	<string name="inf_time">次數</string>
+	<string name="inf_switchwinlose">按一下回到第一頁</string>
+	<string name="inf_switchhands">按一下觀看第二頁</string>
+	<string name="inf_oppmode">對手</string>
+	<string name="inf_gamemode">遊戲模式</string>
+	<string name="inf_win">勝</string>
+	<string name="inf_lose">負</string>
+	<string name="inf_m0">對電腦</string>
+	<string name="inf_m1">對人類 - 熱座</string>
+	<string name="inf_m2">對人類 - Wifi</string>
+	<string name="inf_nobtdevice">抱歉，但你的手機並不支援藍芽功能</string>
+	<string name="inf_scanning">正在搜尋對手&#8230;</string>
+	<string name="inf_disconnected">與對手的連線被中斷了！</string>
+	<string name="msg_shouldselectcard">在按下&quot;完成&quot;鍵前/請先選擇1~5張牌！</string>
+	<string name="msg_oppplacingcard">你的對手正在放置你的牌/ /請稍候</string>
+	<string name="msg_oppselectingcard">你的對手正在出牌/ /請稍候</string>
+	<string name="msg_slotused">此格已被使用！/請選擇別的格子</string>
+	<string name="msg_loadsave">你有一局未完成的牌局/ /請問要繼續此局遊戲嗎？</string>
+	<string name="msg_deleteornot">請問你要把此牌局刪除嗎？/ /把牌局放棄將被視為敗局！</string>
+	<string name="msg_passphone">請把手機交予你的對手/ /並按確定鍵繼續</string>
+	<string name="msg_filedamaged">牌局檔案已損毀！/ /該檔案將會被刪除/並且會開始一局新的牌局！</string>
+	<string name="hint_enterip">或者請輸入你對手的IP</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="description">An interesting poker game combined with Tic-Tac-Toe and 7 hands poker</string>
+	<string name="app_name">Tic-Tac-Toe Poker</string>
+	<string name="ask_exit">Are you sure you want/to exit the game?</string>
+	<string name="ifo_loading">Loading game resources&#8230;</string>
+	<string name="ask_savegame">Are you sure you want/to go back to menu?/ /If your game is not finished/The progress will be saved</string>
+	<string name="ifo_wrongresolution">Sorry, but this game support Android Phone with 800x480 or above resolution only, please check Google Play for future update!</string>
+	<string name="ifo_selectdevice">Please select one of the paired device from the list:</string>
+	<string name="ifo_scandevice">Or you can scan for unpaired device:</string>
+	<string name="inf_scan">Scan Device</string>
+	<string name="ifo_loadingerror">An unknown reason cause the/game unable to be loaded, /please try to restart the game!</string>
+	<string name="inf_p0">High Card</string>
+	<string name="inf_p1">Pair</string>
+	<string name="inf_p2">2 Pair</string>
+	<string name="inf_p3">3 of a kind</string>
+	<string name="inf_p4">Straight</string>
+	<string name="inf_p5">Flush</string>
+	<string name="inf_p6">Full house</string>
+	<string name="inf_p7">4 of a kind</string>
+	<string name="inf_p8">Royal flush</string>
+	<string name="inf_hands">Hands</string>
+	<string name="inf_time">Times</string>
+	<string name="inf_switchwinlose">Click to view the first page</string>
+	<string name="inf_switchhands">Click to view the next page</string>
+	<string name="inf_oppmode">Opponent</string>
+	<string name="inf_gamemode">Game Mode</string>
+	<string name="inf_win">Win</string>
+	<string name="inf_lose">Lose</string>
+	<string name="inf_m0">vs. AI</string>
+	<string name="inf_m1">vs. Human - Hotseat</string>
+	<string name="inf_m2">vs. Human - Wifi</string>
+	<string name="inf_nobtdevice">Sorry, but your phone does not support Bluetooth.</string>
+	<string name="inf_scanning">Searching for opponent&#8230;</string>
+	<string name="inf_disconnected">Connection with your opponent lost!</string>
+	<string name="msg_shouldselectcard">Please select 1 to 5 cards/Before click &quot;Finish&quot;!</string>
+	<string name="msg_oppplacingcard">Your opponent is placing your card/ /Please Wait</string>
+	<string name="msg_oppselectingcard">Your opponent is selecting card/ /Please Wait</string>
+	<string name="msg_slotused">The slot is already used/Please select another slot</string>
+	<string name="msg_loadsave">Pervious unfinished game found/ /Would you like to continue the game?</string>
+	<string name="msg_deleteornot">Would you like to delete the progress?/ /Delete the progress would count/as a lose in the game statistic</string>
+	<string name="msg_passphone">Please pass the phone/to your opponent/ /Then touch OK to continue</string>
+	<string name="msg_filedamaged">Game save file corrupted!/ /The existing file will be deleted/And the game will start as a new game</string>
+	<string name="hint_enterip">Or enter the IP of your opponent</string>
+</resources>
